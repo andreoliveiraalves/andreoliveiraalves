@@ -3,7 +3,13 @@
 
 🌱 I'm currently looking into getting into the professional world, and make it has a front-end, back-end or full-stack developer. Focused on improving my Javascript knowledge right now.
 
+⚡ About me and some soft skills: 
 
+                🌐  Can communicate and express fluently on English/Portuguese.
+                🧑‍💼  Good at: Teamwork, Decision Making, Conflict Resolution, Critical Thinking, Empathy and Problem Solving.
+                🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
+
+📫 Feel free to contact me at 40190054@esmad.ipp.pt
   Technologies:
   
 <div align="center">
@@ -33,10 +39,3 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 </div>
 
-⚡ About me and some soft skills: 
-
-                🌐  Can communicate and express fluently on English/Portuguese.
-                🧑‍💼  Good at: Teamwork, Decision Making, Conflict Resolution, Critical Thinking, Empathy and Problem Solving.
-                🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
-
-📫 Feel free to contact me at 40190054@esmad.ipp.pt
