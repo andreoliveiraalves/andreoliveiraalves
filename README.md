@@ -13,10 +13,10 @@
 
 🖋️ Other Technologies:
   		
-		 🎭 Adobe PhotoShop
-		 ✒️ Adobe Ilustrator
-		 📰 Adobe XD
-		 📄 Microsoft Office
+			 🎭 Adobe PhotoShop
+			 ✒️ Adobe Ilustrator
+			 📰 Adobe XD
+		 	📄 Microsoft Office
 		 
 		 
 	
