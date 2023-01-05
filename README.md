@@ -8,6 +8,7 @@
 	🌐  Can communicate and express fluently on English/Portuguese.
 	🧑‍💼  Good at: Teamwork, Decision Making, Conflict Resolution, Critical Thinking, Empathy and Problem Solving.
 	🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
+	https://www.codewars.com/users/andreoliveiraalves
 
 📫 Feel free to contact me at 40190054@esmad.ipp.pt
 
