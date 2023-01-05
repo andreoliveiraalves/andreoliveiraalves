@@ -4,6 +4,7 @@
 🌱 I'm currently looking into getting into the professional world, and make it has a front-end, back-end or full-stack developer. Focused on improving my Javascript knowledge right now.
 
 ⚡ About me and some soft skills: 
+
 	🌐  Can communicate and express fluently on English/Portuguese.
 	🧑‍💼  Good at: Teamwork, Decision Making, Conflict Resolution, Critical Thinking, Empathy and Problem Solving.
 	🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
