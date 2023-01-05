@@ -11,6 +11,11 @@
 
 📫 Feel free to contact me at 40190054@esmad.ipp.pt
 
+  Design Technologies:
+  		
+		🖋️ Adobe PhotoShop and Adobe Ilustrator
+	
+
   Technologies:
   
 <div align="center">
