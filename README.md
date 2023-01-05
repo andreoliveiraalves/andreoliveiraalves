@@ -1,4 +1,3 @@
-
 🔭 I’m currently finishing my Web development degree at Escola Superior de Media Artes e Design.
 
 🌱 I'm currently looking into getting into the professional world, and make it has a front-end, back-end or full-stack developer. Focused on improving my Javascript knowledge right now.
