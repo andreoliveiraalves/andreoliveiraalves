@@ -33,10 +33,6 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 </div>
 
-
-
-
-
 ⚡ About me and some soft skills: 
 
                 🌐  Can communicate and express fluently on English/Portuguese.
