@@ -11,9 +11,14 @@
 
 📫 Feel free to contact me at 40190054@esmad.ipp.pt
 
-  Design Technologies:
+🖋️ Other Technologies:
   		
-		🖋️ Adobe PhotoShop and Adobe Ilustrator
+		 Adobe PhotoShop
+		 Adobe Ilustrator
+		 Adobe XD
+		 Microsoft Office
+		 
+		 
 	
 
   Technologies:
