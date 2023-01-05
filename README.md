@@ -10,6 +10,7 @@
                 🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
 
 📫 Feel free to contact me at 40190054@esmad.ipp.pt
+
   Technologies:
   
 <div align="center">
