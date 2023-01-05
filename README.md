@@ -35,6 +35,8 @@
 
 
 
+
+
 ⚡ About me and some soft skills: 
 
                 🌐  Can communicate and express fluently on English/Portuguese.
