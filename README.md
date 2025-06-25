@@ -1,6 +1,5 @@
-🔭 I’m currently finishing my Web development degree at Escola Superior de Media Artes e Design.
+🔭 I’m currently looking for a remote job as a web-developer.
 
-🌱 I'm currently looking into getting into the professional world, and make it has a front-end, back-end or full-stack developer. Focused on improving my Javascript knowledge right now.
 
 ⚡ About me and some soft skills: 
 
@@ -8,7 +7,7 @@
 	🧑‍💼  Good at: Teamwork, Decision Making, Conflict Resolution, Critical Thinking, Empathy and Problem Solving.
 	🏃‍♂️  Hobbies: Literature, Music, Movies, Traveling, Going Out.
 
-📫 Feel free to contact me at 40190054@esmad.ipp.pt
+📫 Feel free to contact me at andreoliveiraalves1996vc@gmail.com
 
 🖋️ Other Technologies:
   		
