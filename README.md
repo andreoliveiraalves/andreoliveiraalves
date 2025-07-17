@@ -16,9 +16,8 @@
 	 📰 Adobe XD
 	 📄 Microsoft Office
 		 
-CodeWars profile: https://www.codewars.com/users/andreoliveiraalves
 		 
-<code <img src="https://www.codewars.com/users/andreoliveiraalves/badges/large" /></code>
+<img src="https://www.codewars.com/users/andreoliveiraalves/badges/large" />
 
  🖥️ Technologies:
 
